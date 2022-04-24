@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
+date: '2020-09-15'
+title: 'Engineering degree - Cloud & DevOps'
+company: 'INPT'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'Sept 2020 - Sept 2023'
+url: 'http://www.inpt.ac.ma/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Jenkins', 'Docker', 'Kubernetes', 'Amazon Web Services', 'Flutter', 'React'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,33 +136,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Abdelmoghit and I enjoy creating and deploying things that live on
+              the internet. My passions are for automation and cloud technology. I don't believe I
+              like to share as much knowledge as I can. Mostly, because I'm very excited about IT
+              and I'm just looking for someone who will listen to me rant about CI/CD.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://jedisquad.com/">JediSquad</a> as a Software Developer. I've had an
+              amazing opportunity to learn and get many knowledge from talent individuals in this
+              company.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I also recently start organization of some training sessions in mobile development at{' '}
+              <a href="https://www.linkedin.com/company/cit-inpt/">CIT Club INPT</a> , in favor of
+              the members of the mobile cell of the club. that covers everything you need to build a
+              mobile app using Flutter &amp; Firebase.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>
+              Here are a few technologies I’ve been working with and/or improving in at the moment:
+            </p>
           </div>
 
           <ul className="skills-list">
