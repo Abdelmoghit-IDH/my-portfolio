@@ -137,9 +137,9 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Abdelmoghit and I enjoy creating and deploying things that live on
-              the internet. My passions are for automation and cloud technology. I don't believe I
-              like to share as much knowledge as I can. Mostly, because I'm very excited about IT
-              and I'm just looking for someone who will listen to me rant about CI/CD.
+              the internet. My passions are for automation and cloud technology. I like to share as
+              much knowledge as I can. Mostly, because I'm very excited about IT and I'm just
+              looking for someone who will listen to me rant about CI/CD.
             </p>
 
             <p>

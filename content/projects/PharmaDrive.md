@@ -1,8 +1,7 @@
 ---
-date: '2020-01-10'
+date: '2021-06-6'
 title: 'Building a pharmacy delivery app'
 github: 'https://github.com/Abdelmoghit-IDH/Flutter-Pharma-Drive'
-external: 'https://github.com/Abdelmoghit-IDH/Flutter-Pharma-Drive'
 tech:
   - Flutter
   - Firebase

@@ -1,13 +1,12 @@
 ---
-date: '2018-12-30'
+date: '2022-04-15'
 title: 'Securing a Kubernetes cluster'
 github: 'https://github.com/Abdelmoghit-IDH/Kubernetes-security-Gift-Card-Django'
-external: 'https://github.com/Abdelmoghit-IDH/Kubernetes-security-Gift-Card-Django'
 tech:
   - Kubernetes
   - Docker
   - Django
-company: 'INPT'
+company: 'Freelancer'
 showInProjects: true
 ---
 
