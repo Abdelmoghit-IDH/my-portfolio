@@ -8,6 +8,7 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
+import Resume from '../../public/abdelmoghit-idhsaine-resume.pdf';
 
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};
@@ -175,7 +176,8 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="https://www.linkedin.com/in/abdelmoghitid/"
+      href={Resume}
+      download="Resume"
       target="_blank"
       rel="noopener noreferrer">
       Resume
