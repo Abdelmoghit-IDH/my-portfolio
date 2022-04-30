@@ -8,7 +8,7 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
-import Resume from '../../public/abdelmoghit-idhsaine-resume.pdf';
+import Resume from './abdelmoghit-idhsaine-resume.pdf';
 
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};
